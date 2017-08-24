@@ -1,0 +1,52 @@
+IP: 74.94.132.229 
+Town of nearest dealer: Williamstown, MA
+Region: "northeast"
+
+IP: 173.166.164.121
+Town of nearest dealer: Gaithersburg, MD
+Region: "mid atlantic"
+
+IP: 69.142.18.125
+Town of nearest dealer: Asbury Park, NJ
+Region: "mid atlantic"
+
+IP: 207.67.108.199
+Town of nearest dealer: Minneapolis, MN
+Region: "great lakes"
+
+IP: 209.179.165.12
+Town: Pasadena, CA
+Region: Southwest
+
+IP: 184.154.74.74	
+Town: Chicago, IL
+Region: great lakes
+
+IP: 12.157.243.0
+Town: Portland, OR
+Region: pacific northwest
+
+IP: 24.60.236.0
+Town: Manchester, CT
+Region: northeast
+
+Here's what I find online:
+Mid-Atlantic	DC, DE, MD, NJ, PA, VA, WV	 
+
+
+Mid-West	IL, IN, MI, OH, WI	 
+
+Northeast	CT, MA, ME, NH, NY, RI, VT	 
+
+Southeast	AL, FL, GA, KY, LA, MS, NC, SC, TN, PR	 
+
+Southwest	AR, KS, MO, OK, TX	 
+ 
+
+West Coast	CA, HI, NV	 
+ 
+
+Western	AK, AZ, CO, ID, IA, MN, MT, ND, NE, NM, OR, SD, UT, WA, WY	 
+ 
+
+All Regions	All States and Puerto Rico
